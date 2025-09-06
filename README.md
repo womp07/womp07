@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-
+<a href="www.linkedin.com/in/ahmed-harrabi-895122383><img src="https://img.shields.io/badge/-linkdeIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 - 🎓 Student in informatique (secondary school, Tunisia)
 
 - 🔐 Interested in Cybersecurity (TryHackMe learner for the moment)
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 
 - 🌍 Goal: Work & live in Canada as a cybersecurity professional
 
-- 🚀 Projects: some school  lab-works
+- 🚀 Projects: some school  lab-works in python/Html5/Css3/JS
 
