@@ -1,11 +1,10 @@
-## Hi there 👋
+## 👋 Hi, I’m Ahmed
 
 <!--
 **womp07/womp07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 👋 Hi, I’m Ahmed (or your name)
+-->
 
 - 🎓 Student in informatique (secondary school, Tunisia)
 
@@ -15,5 +14,5 @@ Here are some ideas to get you started:
 
 - 🌍 Goal: Work & live in Canada as a cybersecurity professional
 
-- 🚀 Projects: add small ones you’re working on
--->
+- 🚀 Projects: some school  lab-works
+
