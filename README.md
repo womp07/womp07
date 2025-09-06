@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Ahmed
-<a href="www.linkedin.com/in/ahmed-harrabi-895122383><img src="https://img.shields.io/badge/-linkdeIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/ahmed-harrabi-895122383<img src="https://img.shields.io/badge/-linkdeIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />></a>
 
 <!--
 **womp07/womp07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
