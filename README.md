@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - 📚 Currently learning Python, Linux, Networking basics
 
-- 🌍 Goal: Work & live in Canada as a cybersecurity professional
+- 🌍 Goal: build a cyber security career in canada or USA and to grind
 
 - 🚀 Projects: some school  lab-works in python/Html5/Css3/JS
 
