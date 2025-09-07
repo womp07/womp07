@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Ahmed
-[My LinkedIn](https://www.linkedin.com/in/ahmed-harrabi-895122383)
+[My LinkedIn](www.linkedin.com/in/ahmd07)
 <br>
 [My Youtube Channel](https://www.youtube.com/channel/UCK2Xn9HGCtFKx1GxI9db1jw)
 
