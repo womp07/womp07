@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 - 🌍 Goal: build a cyber security career in canada or USA and to grind
 
-- 🚀 Projects: some school  lab-works in python/Html5/Css3/JS
+- 🚀 Projects: some school  lab-works in python/Html5/Css3/JS (more professional projects soon)
 
