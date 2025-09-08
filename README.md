@@ -1,8 +1,5 @@
 ## 👋 Hi, I’m Ahmed
 [My LinkedIn](www.linkedin.com/in/ahmd07)
-<br>
-[My Youtube Channel](https://www.youtube.com/channel/UCK2Xn9HGCtFKx1GxI9db1jw)
-
 
 <!--
 **womp07/womp07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +17,4 @@ Here are some ideas to get you started:
 
 - 🚀 Projects: some school  lab-works in python/Html5/Css3/JS (more professional projects soon)
 
+- ▶️ YouTube: i do content on youtube where i help people landing their first job with what i know using ai(dont forget to take a look): [My YT Channel](https://www.youtube.com/@IahmedT07)_
