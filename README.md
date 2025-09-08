@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 - ▶️ YouTube: i do content on youtube where i help people landing their first job with what i know using ai(dont forget to take a look):
 <br>
-  [My Channel](www.youtube.com/@IahmedT07)
+
+[My Channel](www.youtube.com/@IahmedT07)
