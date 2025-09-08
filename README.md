@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 - 🚀 Projects: some school  lab-works in python/Html5/Css3/JS (more professional projects soon)
 
-- ▶️ YouTube: i do content on youtube where i help people landing their first job with what i know using ai(dont forget to take a look): [My YT Channel](https://www.youtube.com/@IahmedT07)_
+- ▶️ YouTube: i do content on youtube where i help people landing their first job with what i know using ai(dont forget to take a look):
+<br>
+  [My YT Channel](https://www.youtube.com/@IahmedT07)_
